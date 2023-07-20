@@ -28,3 +28,4 @@
 *git config user.name - узнать свое имя на репозитории.
 
 *git config user.email - узнать имя почты.
+## конфигурация.
