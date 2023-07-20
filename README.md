@@ -17,3 +17,4 @@
 
  *git --version - показывает версию git.
 
+ *git branch new_branch-создание новой ветки с именем new_branch
