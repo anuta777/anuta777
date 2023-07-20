@@ -20,6 +20,7 @@
  *git branch new_branch-создание новой ветки с именем new_branch
 
  *git merge branch_name -выполняет слияние текушей ветки с веткой branch_name
- 
+
  - git checkout -переключение веток-*
 
+ *git log - журнал изменений.
